@@ -1,7 +1,7 @@
 # ============================================================
 #  站点基础配置
 # ============================================================
-baseURL = "https://zhenxuanpan.github.io/"
+baseURL = "https://impzx.github.io/"
 title = "Zhenxuan's Blog"
 theme = "PaperMod"
 
