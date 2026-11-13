@@ -95,6 +95,12 @@ hasCJKLanguage = true
 
   [languages.zh.menu]
     [[languages.zh.menu.main]]
+      identifier = "ai-infra"
+      name = "AI Infra"
+      url = "/series/ai-infra/"
+      weight = 15
+
+    [[languages.zh.menu.main]]
       identifier = "posts"
       name = "文章"
       url = "/posts/"
@@ -179,3 +185,8 @@ hasCJKLanguage = true
       name = "About"
       url = "/about/"
       weight = 50
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  series = "series"
