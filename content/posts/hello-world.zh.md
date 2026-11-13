@@ -50,4 +50,4 @@ Hugo 会把它们识别为同一篇文章的两个语言版本，阅读时可以
 - 开源项目进展
 - 读书与生活随笔
 
-如果你也感兴趣，欢迎通过 [GitHub](https://github.com/zhenxuanpan) 找到我。我们下一篇文章见！
+如果你也感兴趣，欢迎通过 [GitHub](https://github.com/impzx) 找到我。我们下一篇文章见！

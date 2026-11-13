@@ -54,7 +54,7 @@ hasCJKLanguage = true
 
   # 每篇文章底部显示“编辑此页”链接
   [params.editPost]
-    URL = "https://github.com/zhenxuanpan/zhenxuanpan.github.io/edit/main/content"
+    URL = "https://github.com/impzx/impzx.github.io/edit/main/content"
     appendFilePath = true
     Text = "编辑此页"
 
@@ -82,12 +82,12 @@ hasCJKLanguage = true
 
     [languages.zh.params.homeInfoParams]
       Title = "你好，我是 Zhenxuan 👋"
-      Content = "这里记录我的技术笔记、开源项目与生活随笔。\n\n欢迎随意浏览，也欢迎通过 [GitHub](https://github.com/zhenxuanpan) 与我交流。"
+      Content = "这里记录我的技术笔记、开源项目与生活随笔。\n\n欢迎随意浏览，也欢迎通过 [GitHub](https://github.com/impzx) 与我交流。"
       AlignSocialIconsTo = "center"
 
     [[languages.zh.params.socialIcons]]
       name = "github"
-      url = "https://github.com/zhenxuanpan"
+      url = "https://github.com/impzx"
 
     [[languages.zh.params.socialIcons]]
       name = "rss"
@@ -138,12 +138,12 @@ hasCJKLanguage = true
 
     [languages.en.params.homeInfoParams]
       Title = "Hi, I'm Zhenxuan 👋"
-      Content = "I write about technology, open-source projects, and life.\n\nFeel free to look around, or reach me on [GitHub](https://github.com/zhenxuanpan)."
+      Content = "I write about technology, open-source projects, and life.\n\nFeel free to look around, or reach me on [GitHub](https://github.com/impzx)."
       AlignSocialIconsTo = "center"
 
     [[languages.en.params.socialIcons]]
       name = "github"
-      url = "https://github.com/zhenxuanpan"
+      url = "https://github.com/impzx"
 
     [[languages.en.params.socialIcons]]
       name = "rss"

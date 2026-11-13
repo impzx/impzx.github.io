@@ -10,7 +10,7 @@ hideMeta: true
 
 ## 找到我
 
-- Email: zhenxuanpan@gmail.com
-- GitHub：[zhenxuan](https://github.com/zhenxuanpan)
+- Email: impzx@gmail.com
+- GitHub：[zhenxuan](https://github.com/impzx)
 
 如果你对某篇文章有想法，欢迎在 GitHub 上给我留言。

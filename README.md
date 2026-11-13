@@ -2,16 +2,16 @@
 
 一个基于 [Hugo](https://gohugo.io/) + [PaperMod](https://github.com/adityatelange/hugo-PaperMod) 的中英双语个人博客，使用 GitHub Actions 自动部署到 GitHub Pages。
 
-- 中文站点：<https://zhenxuanpan.github.io/>
-- 英文站点：<https://zhenxuanpan.github.io/en/>
+- 中文站点：<https://impzx.github.io/>
+- 英文站点：<https://impzx.github.io/en/>
 
 ## 本地预览
 
 需要 Hugo Extended（>= 0.158）。本仓库自带主题子模块，**首次克隆**时记得带上 `--recurse-submodules`：
 
 ```bash
-git clone --recurse-submodules git@github.com:zhenxuanpan/zhenxuanpan.github.io.git
-cd zhenxuanpan.github.io
+git clone --recurse-submodules git@github.com:impzx/impzx.github.io.git
+cd impzx.github.io
 hugo server -D
 ```
 

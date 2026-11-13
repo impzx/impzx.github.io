@@ -10,7 +10,7 @@ I'm a developer who enjoys tinkering with tools and projects. This blog is where
 
 ## Find me
 
-- Email: zhenxuanpan@gmail.com
-- GitHub: [zhenxuan](https://github.com/zhenxuanpan)
+- Email: impzx@gmail.com
+- GitHub: [zhenxuan](https://github.com/impzx)
 
 If a post resonates with you, feel free to reach out on GitHub.

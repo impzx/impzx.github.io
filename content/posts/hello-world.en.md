@@ -50,4 +50,4 @@ I plan to write about:
 - Open-source project updates
 - Books and everyday thoughts
 
-If you're interested too, feel free to find me on [GitHub](https://github.com/zhenxuanpan). See you in the next post!
+If you're interested too, feel free to find me on [GitHub](https://github.com/impzx). See you in the next post!
