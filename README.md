@@ -1,4 +1,4 @@
-# Zhenxuan's Blog
+# impzx's Blog
 
 一个基于 [Hugo](https://gohugo.io/) + [PaperMod](https://github.com/adityatelange/hugo-PaperMod) 的中英双语个人博客，使用 GitHub Actions 自动部署到 GitHub Pages。
 

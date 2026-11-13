@@ -2,7 +2,7 @@
 #  站点基础配置
 # ============================================================
 baseURL = "https://impzx.github.io/"
-title = "Zhenxuan's Blog"
+title = "impzx's Blog"
 theme = "PaperMod"
 
 # 默认语言为中文，中文页面在根路径，英文页面在 /en/ 下
@@ -32,7 +32,7 @@ hasCJKLanguage = true
 # ============================================================
 [params]
   env = "production"
-  author = "Zhenxuan"
+  author = "impzx"
   defaultTheme = "auto"          # auto / light / dark
   mainSections = ["posts"]
 
@@ -75,13 +75,13 @@ hasCJKLanguage = true
   label = "中文"
   locale = "zh-CN"
   weight = 1
-  title = "Zhenxuan 的博客"
+  title = "impzx 的博客"
 
   [languages.zh.params]
     description = "记录技术、项目与生活的中文博客。"
 
     [languages.zh.params.homeInfoParams]
-      Title = "你好，我是 Zhenxuan 👋"
+      Title = "你好，我是 impzx 👋"
       Content = "这里记录我的技术笔记、开源项目与生活随笔。\n\n欢迎随意浏览，也欢迎通过 [GitHub](https://github.com/impzx) 与我交流。"
       AlignSocialIconsTo = "center"
 
@@ -131,13 +131,13 @@ hasCJKLanguage = true
   label = "English"
   locale = "en"
   weight = 2
-  title = "Zhenxuan's Blog"
+  title = "impzx's Blog"
 
   [languages.en.params]
     description = "Notes on technology, projects, and life."
 
     [languages.en.params.homeInfoParams]
-      Title = "Hi, I'm Zhenxuan 👋"
+      Title = "Hi, I'm impzx 👋"
       Content = "I write about technology, open-source projects, and life.\n\nFeel free to look around, or reach me on [GitHub](https://github.com/impzx)."
       AlignSocialIconsTo = "center"
 
